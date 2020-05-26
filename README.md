@@ -16,6 +16,9 @@ the server is oriented around a somewhat structured gameplay experience with a l
 *make or join a crew, then follow the rules of engagement and arrange structured pvp
 
 server ip: 
+
 discord: 
+
+if you want to make a crew you can have your own voice and text channel on the discord :)
 
 i'll make the best effort to make sure the server is fast and that the community comes first, lets have fun wit' a capital F daaaawg
