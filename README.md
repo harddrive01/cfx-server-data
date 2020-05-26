@@ -1,31 +1,21 @@
 # cfx-server-data
 _The data repository for Cfx.re servers_
 
-## Usage
-1. Make sure to `git clone`. Don't "Download ZIP", as that'll make it _much_ harder to update to newer versions.
-2. Put custom resources in `resources/[local]/` if you don't want to be affected by any random messups.
+###da cleanest meanest gta online experience goin'
 
-### Advanced usage
-You can also consider using the repository as a submodule + symlink for your own Git repository:
+these are the resource and config files for gta freeplay, the goal is to clean it up and make sure theres no unneccessary scripts or content here while adding any new features if requested by the community. please help out if you can..
 
-**Linux**:
-```
-$ git submodule add https://github.com/citizenfx/cfx-server-data.git vendor/server-data
-$ ln -s vendor/server-data/resources/ 'resources/[base]/'
-```
+the server is oriented around a somewhat structured gameplay experience with a little roleplay vibe too, but the focus is on freemode gunplay and EXPLORATION!! - TAKE TIME TO EXPLORE WIT YA CRU' find a secret hideout or 2
 
-**Windows**:
-```
-> git submodule add https://github.com/citizenfx/cfx-server-data.git vendor/server-data
-> mklink /d resources\[base] vendor\server-data\resources
-```
+*advanced gun physics
 
-## Policy
-You can make pull requests to propose changes that benefit _everyone_. Add new useful resources, change/improve
-existing ones - anything goes, as long as you make sure to:
+*interesting streamlined pvp
 
-1. Not break existing users/APIs.
-2. Not change default behavior without a toggle.
-3. Use best practices (convars over config files, native commands wherever possible, etc.)
+*not quite roleplay dynamic system
 
-Modifying or rewriting existing resources in this repository for local use only is _strongly_ discouraged.
+*make or join a crew, then follow the rules of engagement and arrange structured pvp
+
+server ip: 
+discord: 
+
+i'll make the best effort to make sure the server is fast and that the community comes first, lets have fun wit' a capital F daaaawg
