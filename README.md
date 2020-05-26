@@ -15,9 +15,9 @@ the server is oriented around a somewhat structured gameplay experience with a l
 
 *make or join a crew, then follow the rules of engagement and arrange structured pvp
 
-server ip: 
+server ip: soon
 
-discord: 
+discord: https://discord.gg/HBEaVGS
 
 if you want to make a crew you can have your own voice and text channel on the discord :)
 
